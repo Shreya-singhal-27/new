@@ -1,4 +1,4 @@
-# CODSOFT
-Codsoft internship June 2024
+# HELLO
+New to github
 <br>
 C++ programming
